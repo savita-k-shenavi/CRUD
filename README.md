@@ -1,1 +1,5 @@
 # CRUD
+  GET
+  POST
+  PUT
+  DELETE
